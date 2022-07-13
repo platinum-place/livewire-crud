@@ -7,5 +7,5 @@ CRUD hecho con laravel livewire
 - Escribir el comando "php artisan serve" y presionar enter.
 
 ### Requisitos
-- Tener instalado composer[https://getcomposer.org/].
+- Tener instalado [composer](https://getcomposer.org/).
 - Tener instalado la ultima version de php.
